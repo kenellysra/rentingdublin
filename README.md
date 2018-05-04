@@ -1,6 +1,6 @@
 # Renting Dublin
 
-This project contain the following files:
+This project contains the following files:
 
 schooletl.py: it is an scraper of SchoolDays.ie to extract data from secondary schools in Dublin (http://www.schooldays.ie/articles/secondary-Schools-in-Ireland-by-County)
 schoolcleaning.R: perform some cleaning on data collect from schooletl.py script
